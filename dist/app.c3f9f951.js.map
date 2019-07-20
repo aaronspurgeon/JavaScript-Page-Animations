@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/app.js"],"names":["run"],"mappings":"AAAA,IAAMA,GAAG,GAAG,SAANA,GAAM,GAAM,CAEjB,CAFD","file":"app.c3f9f951.js","sourceRoot":"..","sourcesContent":["const run = () => {\n    \n}"]}
